@@ -20,7 +20,7 @@
 
 ## Executive Summary
 
-I am a **Senior Software Engineer ** (currently at KPMG Malta, targeting Technical Architect & Solutions Architect roles) with **18+ years of total verifiable engineering foundation**, including **15+ continuous years of post-degree enterprise software engineering and solutions architecture experience (2010 – Present)** across **Malta (EU), United Arab Emirates, United Kingdom, and India**.
+I am a ** Senior Software Engineer ** (currently at KPMG Malta, targeting Technical Architect & Solutions Architect roles) with **18+ years of total verifiable engineering foundation**, including **15+ continuous years of post-degree enterprise software engineering and solutions architecture experience (2010 – Present)** across **Malta (EU), United Arab Emirates, United Kingdom, and India**.
 
 My architectural focus bridges:
 - **Cloud-Native & Distributed Microservices:** High-throughput .NET Core / C# APIs, modular microservices, CQRS, and resilient event-driven architectures on **Microsoft Azure**.
