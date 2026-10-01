@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Prasanna Prabhakaran (Prasanna Raja) 👋
+# Hi there, I'm Prasanna Prabhakaran (Prasanna Raja)
 
 **Senior Software Engineer | Lead Full-Stack Engineer | Applied AI & Cloud Systems**
 
@@ -8,18 +8,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannaraja/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasannaraja)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannaraja@msn.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/35699970397)
 
 <br/>
 
-📍 **Marsa / Valletta, Malta** (European Union Resident | Non-EU)  
-⏱️ **Notice Period & Availability:** Contractual 3 months
+**Marsa / Valletta, Malta** (European Union Resident | Non-EU)  
+**Notice Period & Availability:** Contractual 3 months
 
 ---
 
 </div>
 
-## 📌 Executive Summary
+## Executive Summary
 
 I am a **Senior Software Engineer ** (currently at KPMG Malta, targeting Technical Architect & Solutions Architect roles) with **18+ years of total verifiable engineering foundation**, including **15+ continuous years of post-degree enterprise software engineering and solutions architecture experience (2010 – Present)** across **Malta (EU), United Arab Emirates, United Kingdom, and India**.
 
@@ -31,16 +30,16 @@ My architectural focus bridges:
 
 ---
 
-## 🚀 Interactive Digital Twin & Portfolio
+## Interactive Digital Twin & Portfolio
 
-> 💡 **Explore My Interactive Career Platform:**  
+> **Explore My Interactive Career Platform:**  
 > Visit **[prasannaraja.github.io](https://prasannaraja.github.io/)** to interact with my AI Digital Twin — an intelligent conversational system grounded in my full 18-year career history, system architectures, and technical competencies.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  🤖 Ask My Digital Twin at https://prasannaraja.github.io/:                 │
+│  Ask My Digital Twin at https://prasannaraja.github.io/:                    |
 │  • "What is your experience architecting RAG pipelines on Azure?"           │
-│  • "How did you design high-resolution geospatial analytics in KPMG Dash?"   │
+│  • "How did you design high-resolution geospatial analytics in KPMG Dash?"  │
 │  • "Explain your .NET Core microservices and Redis caching architecture."   │
 │  • "What is your availability and notice period?"                           │
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -48,7 +47,7 @@ My architectural focus bridges:
 
 ---
 
-## 🏆 Key Architectural Impacts & Project Highlights
+## Key Architectural Impacts & Project Highlights
 
 ### 1. KPMG Dash & Katalyst — AI Decision Intelligence & Location Analytics (KPMG Malta / UK)
 - **Geospatial Intelligence Platform:** Architected high-resolution location analytics for **KPMG Dash** using **Uber H3 Discrete Global Grid (Resolution Level 10 / L10)** and **Mapbox GL**, enabling real-time spatial aggregation and interactive boundary rendering across **6B+ demographic and consumer data points**.
@@ -72,22 +71,22 @@ My architectural focus bridges:
 
 ---
 
-## 🌍 International Career Chronology
+## International Career Chronology
 
 | Period | Role | Organization / Client | Location |
 | :--- | :--- | :--- | :--- |
-| **Oct 2021 – Present** | **Senior Software Engineer / Technical Architect** | **KPMG Microsoft Business Solutions (KPMG MBS / UK)** | 🇲🇹 Marsa, Malta |
-| **Mar 2021 – Sep 2021** | **Senior Software Developer / Lead Full-Stack** | **Finesse Global / GEMS Education** | 🇦🇪 Dubai, UAE |
-| **Jul 2020 – Feb 2021** | **Senior .NET Specialist / Lead UI Developer** | **Randstad India / Shell International (CCET)** | 🇮🇳 Bengaluru, India |
-| **Nov 2018 – Dec 2019** | **Senior Software Developer** | **Raqmiyat / Abu Dhabi Department of Health** | 🇦🇪 Abu Dhabi, UAE |
-| **Dec 2014 – Aug 2018** | **Senior Software Engineer / Associate Project Lead** | **Cognizant Technology Solutions** | 🇮🇳 India & 🇬🇧 UK Client Delivery |
-| **Jan 2014 – Dec 2014** | **Senior .NET Developer** | **Standard Chartered Bank / HCL (IDS Reporting)** | 🇮🇳 Chennai, India |
-| **Jul 2010 – Dec 2013** | **Software Engineer / Technical Consultant** | **Inatech Info Solutions (BunkerTech SaaS)** | 🇮🇳 Chennai, India |
-| **2001 – 2005** | **Telecom Systems & Field Support Engineer** | **HTL Limited & Midas Communication Technologies** | 🇮🇳 Chennai, India |
+| **Oct 2021 – Present** | **Senior Software Engineer / Technical Architect** | **KPMG Microsoft Business Solutions (KPMG MBS / UK)** | Marsa, Malta |
+| **Mar 2021 – Sep 2021** | **Senior Software Developer / Lead Full-Stack** | **Finesse Global / GEMS Education** | Dubai, UAE |
+| **Jul 2020 – Feb 2021** | **Senior .NET Specialist / Lead UI Developer** | **Randstad India / Shell International (CCET)** | Bengaluru, India |
+| **Nov 2018 – Dec 2019** | **Senior Software Developer** | **Raqmiyat / Abu Dhabi Department of Health** | Abu Dhabi, UAE |
+| **Dec 2014 – Aug 2018** | **Senior Software Engineer / Associate Project Lead** | **Cognizant Technology Solutions** | India & UK Client Delivery |
+| **Jan 2014 – Dec 2014** | **Senior .NET Developer** | **Standard Chartered Bank / HCL (IDS Reporting)** | Chennai, India |
+| **Jul 2010 – Dec 2013** | **Software Engineer / Technical Consultant** | **Inatech Info Solutions (BunkerTech SaaS)** | Chennai, India |
+| **2001 – 2005** | **Telecom Systems & Field Support Engineer** | **HTL Limited & Midas Communication Technologies** | Chennai, India |
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **Bachelor of Engineering (B.E.) in Computer Science & Engineering**  
   *Anna University / Sri Venkateswara College of Engineering* | First Class Honours (Nov 2008)  
@@ -98,7 +97,7 @@ My architectural focus bridges:
 
 ---
 
-## 💼 Quick Info for Hiring
+## Quick Info for Hiring
 
 - **Target Roles:** Technical Architect, Solutions Architect, Lead Full-Stack Engineer (Data/AI Platforms), Principal Platform Software Engineer, Senior Software Engineer
 - **Current Location:** Marsa / Valletta, Malta (European Union)
@@ -109,11 +108,11 @@ My architectural focus bridges:
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 I am always keen to discuss technical architectures, cloud modernization, enterprise full-stack engineering, and AI-driven platforms.
 
-- 🌐 **Interactive Portfolio & Chatbot:** [https://prasannaraja.github.io/](https://prasannaraja.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/prasannaraja](https://www.linkedin.com/in/prasannaraja/)
-- 🐙 **GitHub:** [github.com/prasannaraja](https://github.com/prasannaraja)
-- 📧 **Direct Email:** [prasannaraja@msn.com](mailto:prasannaraja@msn.com) / [heyprasanna@outlook.com](mailto:heyprasanna@outlook.com)
+- **Interactive Portfolio & Chatbot:** [https://prasannaraja.github.io/](https://prasannaraja.github.io/)
+- **LinkedIn:** [linkedin.com/in/prasannaraja](https://www.linkedin.com/in/prasannaraja/)
+- **GitHub:** [github.com/prasannaraja](https://github.com/prasannaraja)
+- **Direct Email:** [prasannaraja@msn.com](mailto:prasannaraja@msn.com) / [heyprasanna@outlook.com](mailto:heyprasanna@outlook.com)
