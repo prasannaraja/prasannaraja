@@ -59,7 +59,7 @@ A personal AI platform that combines my professional knowledge with a production
 
 ## Selected Engineering Experience
 
-### KPMG Dash & Katalyst — Analytics & Location Intelligence
+### [KPMG Dash & Katalyst — Analytics & Location Intelligence](https://kpmgdash.co.uk/)
 
 **KPMG Microsoft Business Solutions · Malta / UK**
 
@@ -78,7 +78,7 @@ A personal AI platform that combines my professional knowledge with a production
 - Optimised complex SQL Server queries and .NET backend data access for high-volume reporting workloads.
 - Worked across backend, frontend and integration concerns as a senior engineering contributor.
 
-### GEMS Education — Multi-Tenant Education Platform
+### [GEMS Education — Multi-Tenant Education Platform](https://www.gemseducation.com/en)
 
 **Dubai, UAE**
 
@@ -94,7 +94,7 @@ A personal AI platform that combines my professional knowledge with a production
 - Engineered UI and business logic for a capital cost estimation platform supporting large-scale energy-sector projects.
 - Worked closely with domain specialists and cost engineers in an Agile Scrum environment.
 
-### Abu Dhabi Department of Health
+### [Abu Dhabi Department of Health](https://www.doh.gov.ae/en/)
 
 **Government / Healthcare Platform**
 
@@ -107,7 +107,7 @@ A personal AI platform that combines my professional knowledge with a production
 
 **Languages & Frameworks**
 
-`C#` ` .NET` `.NET Core` `ASP.NET Core` `TypeScript` `JavaScript` `React` `Angular`
+`C#` `.NET` `.NET Core` `ASP.NET Core` `TypeScript` `JavaScript` `React` `Angular`
 
 **Cloud & Platform**
 
